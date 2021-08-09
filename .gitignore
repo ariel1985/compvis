@@ -1,7 +1,10 @@
 /tfod
-/Tensorflow
+/compvis/Tensorflow
 /.ipynb_checkpoints
 /ipynb_checkpoints
 .ipynb_checkpoints
 willnotupload
 /media
+/.idea
+/venv
+/Tensorflow
