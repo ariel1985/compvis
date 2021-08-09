@@ -15,4 +15,3 @@ Best practices for labeling:
 2. include pictures of objects at different angles and under different light conditions
 3. start with 10-20 pictures in each class
 4. keep your labels as tight (minimum margins) as possible
-
